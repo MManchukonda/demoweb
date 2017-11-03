@@ -2,7 +2,7 @@
 <%@ page isELIgnored="false" %>
 <html>
 <body>
-	<h1>Speedops Sample Application</h1>
+	<h1>Hello! Digitamizers</h1>
 
 	<h2>${message}</h2>
 
