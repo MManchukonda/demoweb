@@ -2,7 +2,7 @@
 <%@ page isELIgnored="false" %>
 <html>
 <body>
-	<h1>Hello! Welcome to Pipeline Creation Demo testing</h1>
+	<h1>Hello! Welcome to Vijay</h1>
 
 	<h2>${message}</h2>
 
