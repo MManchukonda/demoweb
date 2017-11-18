@@ -8,7 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class DemoController {  
     @RequestMapping("/welcome")  
     public ModelAndView welcome() {  
-        String message = "Welcome to Digitamizers  & Techforce.ai";  
+        String message = "Welcome to jenkins pipeline & Techforce.ai";  
         return new ModelAndView("hellopage", "message", message);  
     }  
 }  
